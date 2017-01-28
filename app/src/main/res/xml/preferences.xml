@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.recursivecase.ben.custompreferenceapp.CustomCheckboxPreference
+        android:id="@+id/checkbox"
+        android:key="generic_key"
+        android:defaultValue="true"
+        android:title="Custom Preference"
+        />
+</PreferenceScreen>
